@@ -1,0 +1,74 @@
+{
+        "status":1,
+        "banner_urls": [
+        "https://raw.githubusercontent.com/xynetic//images/shopbanner.png","https://raw.githubusercontent.com/xynetic//images/shopbanner2.jpg","https://raw.githubusercontent.com/xynetic//images/shopbanner3.jpg","https://raw.githubusercontent.com/xynetic//images/shopbanner4.png"
+        ],
+        "categories":[
+        {
+        "name":"Ghar ka khana",
+        "image":"https://raw.githubusercontent.com/xynetic//images/t1.png"
+        },
+        {
+        "name":"Restaurant",
+        "image":"https://raw.githubusercontent.com/xynetic//images/t2.png"
+        }
+        ],
+        "restaurant":[
+        {
+        "name":"Hotel Shalimar",
+        "image":"https://raw.githubusercontent.com/xynetic//images/r.png"
+        },
+        {
+        "name":"Mao Restaurant",
+        "image":"https://raw.githubusercontent.com/xynetic//images/r1.png"
+        },
+        {
+        "name":"Tamia's Restaurant",
+        "image":"https://raw.githubusercontent.com/xynetic//images/r2.jpg"
+        },
+        {
+        "name":"Goodluck Restaurant",
+        "image":"https://raw.githubusercontent.com/xynetic//images/r3.jpg"
+        }
+        ],
+        "home":[
+        {
+        "name":"Crunchy Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic//images/k.jpg"
+        },
+        {
+        "name":"Tanmay's Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic//images/k1.png"
+        },
+        {
+        "name":"Patel's Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic//images/k2.jpg"
+        },
+        {
+        "name":"Apna Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic//images/k3.jpg"
+        }
+        ],
+        "discount_banners": [
+
+        "https://5da86987f85e.ngrok.io/images/discount1.jpg","https://5da86987f85e.ngrok.io/images/discount2.jpg","https://5da86987f85e.ngrok.io/images/discount3.jpg","https://5da86987f85e.ngrok.io/images/discount4.png"
+        ],
+        "mouth_cravingdishes":[
+        {
+        "name":"Chicken Crispy",
+        "image":"https://5da86987f85e.ngrok.io/images/food1.png"
+        },
+        {
+        "name":"Chicken Dum-Biryani",
+        "image":"https://5da86987f85e.ngrok.io/images/food2.png"
+        },
+        {
+        "name":"Burger",
+        "image":"https://5da86987f85e.ngrok.io/images/food4.jpg"
+        },
+        {
+        "name":"Fried Rice",
+        "image":"https://5da86987f85e.ngrok.io/images/food3.jpg"
+        }
+        ]
+        }
