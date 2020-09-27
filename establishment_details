@@ -6,7 +6,7 @@
     "establishment_details":[
       {
         "name":"Hotel Shalimar",
-        "image":"https://1421b011d0c1.ngrok.io/images/r.png",
+        "image":"https://raw.githubusercontent.com/xynetic/images/master/r.png",
         "distance":"3.2 km",
         "locality":"Dongri"
       },
