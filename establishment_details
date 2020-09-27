@@ -1,0 +1,56 @@
+{
+"status":1,
+  "establishment_banners": [
+    "https://raw.githubusercontent.com/xynetic/images/master/banner1.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner2.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner3.jpg","https://1421b011d0c1.ngrok.io/images/banner4.jpg"
+    ],
+    "establishment_details":[
+      {
+        "name":"Hotel Shalimar",
+        "image":"https://1421b011d0c1.ngrok.io/images/r.png",
+        "distance":"3.2 km",
+        "locality":"Dongri"
+      },
+      {
+         "name":"Mao Restaurant",
+         "image":"https://raw.githubusercontent.com/xynetic/images/master/r1.png",
+         "distance":"3.2 km",
+         "locality":"Dongri"
+      },
+       {
+         "name":"Tamia's Restaurant",
+         "image":"https://raw.githubusercontent.com/xynetic/images/master/r2.jpg",
+         "distance":"3.2 km",
+         "locality":"Dongri"
+      },
+       {
+         "name":"Goodluck Restaurant",
+         "image":"https://raw.githubusercontent.com/xynetic/images/master/r3.jpg",
+         "distance":"3.2 km",
+         "locality":"Dongri"
+      },
+     {
+        "name":"Crunchy Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic/images/master/k.jpg",
+         "distance":"3.2 km",
+         "locality":"Dongri"
+      },
+         {
+        "name":"Tanmay's Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic/images/master/k1.png",
+        "distance":"3.2 km",
+        "locality":"Dongri"
+         },
+         {
+        "name":"Patel's Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic/images/master/k2.jpg",
+        "distance":"3.2 km",
+        "locality":"Dongri"
+      },
+         {
+        "name":"Apna Kitchen",
+        "image":"https://raw.githubusercontent.com/xynetic/images/master/k3.jpg",
+        "distance":"3.2 km",
+        "locality":"Dongri"
+      }
+    ]
+}
