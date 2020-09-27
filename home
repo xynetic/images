@@ -1,7 +1,7 @@
 {
         "status":1,
         "banner_urls": [
-        "https://raw.githubusercontent.com/xynetic/images/shopbanner.png","https://raw.githubusercontent.com/xynetic//images/shopbanner2.jpg","https://raw.githubusercontent.com/xynetic//images/shopbanner3.jpg","https://raw.githubusercontent.com/xynetic//images/shopbanner4.png"
+        "https://raw.githubusercontent.com/xynetic/images/master/banner1.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner2.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner3.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner4.jpg"
         ],
         "categories":[
         {
