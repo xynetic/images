@@ -1,56 +1,67 @@
+// 20201119161011
+// http://localhost:3000/users
+
 {
-"status":1,
-  "establishment_banners": [
-    "https://raw.githubusercontent.com/xynetic/images/master/banner1.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner2.jpg","https://raw.githubusercontent.com/xynetic/images/master/banner3.jpg","https://1421b011d0c1.ngrok.io/images/banner4.jpg"
-    ],
-    "establishment_details":[
-      {
-        "name":"Hotel Shalimar",
-        "image":"https://raw.githubusercontent.com/xynetic/images/master/r.png",
-        "distance":"3.2 km",
-        "locality":"Dongri"
-      },
-      {
-         "name":"Mao Restaurant",
-         "image":"https://raw.githubusercontent.com/xynetic/images/master/r1.png",
-         "distance":"3.2 km",
-         "locality":"Dongri"
-      },
-       {
-         "name":"Tamia's Restaurant",
-         "image":"https://raw.githubusercontent.com/xynetic/images/master/r2.jpg",
-         "distance":"3.2 km",
-         "locality":"Dongri"
-      },
-       {
-         "name":"Goodluck Restaurant",
-         "image":"https://raw.githubusercontent.com/xynetic/images/master/r3.jpg",
-         "distance":"3.2 km",
-         "locality":"Dongri"
-      },
-     {
-        "name":"Crunchy Kitchen",
-        "image":"https://raw.githubusercontent.com/xynetic/images/master/k.jpg",
-         "distance":"3.2 km",
-         "locality":"Dongri"
-      },
-         {
-        "name":"Tanmay's Kitchen",
-        "image":"https://raw.githubusercontent.com/xynetic/images/master/k1.png",
-        "distance":"3.2 km",
-        "locality":"Dongri"
-         },
-         {
-        "name":"Patel's Kitchen",
-        "image":"https://raw.githubusercontent.com/xynetic/images/master/k2.jpg",
-        "distance":"3.2 km",
-        "locality":"Dongri"
-      },
-         {
-        "name":"Apna Kitchen",
-        "image":"https://raw.githubusercontent.com/xynetic/images/master/k3.jpg",
-        "distance":"3.2 km",
-        "locality":"Dongri"
-      }
-    ]
+  "users": [
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/shop2.jpg?alt=media&token=49bf2bce-cea6-4d64-b95f-422e74851082",
+      "locality": "Churchgate",
+      "name": "Hotel Shalimar",
+      "shopid": "0"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/r11.png?alt=media&token=22860525-1cff-4897-b7ea-d5bd57ae1153",
+      "locality": "Churchgate",
+      "name": "Mao Restaurant",
+      "shopid": "1"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/r2.jpg?alt=media&token=2dfd53b6-487b-4b9a-9900-e59749da35c1",
+      "locality": "Churchgate",
+      "name": "Tamia's Restaurant",
+      "shopid": "2"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/r3.jpg?alt=media&token=92694e25-4971-4852-9579-d2c43ec3400a",
+      "locality": "Churchgate",
+      "name": "Goodluck Restaurant",
+      "shopid": "3"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/shop1.jpg?alt=media&token=1073f527-1295-468f-a7c5-900e388bf6b7",
+      "locality": "Churchgate",
+      "name": "Goodluck Restaurant",
+      "shopid": "4"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k.jpg?alt=media&token=8a06f30a-843e-471d-83fe-646db64c24f1",
+      "locality": "Churchgate",
+      "name": "Mini Punjab",
+      "shopid": "5"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/r11.png?alt=media&token=22860525-1cff-4897-b7ea-d5bd57ae1153",
+      "locality": "Churchgate",
+      "name": "Jaybharat Restaurant",
+      "shopid": "6"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k3.jpg?alt=media&token=8a06f30a-843e-471d-83fe-646db64c24f1",
+      "locality": "Churchgate",
+      "name": "Rehmat Restaurant",
+      "shopid": "7"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k2.jpg?alt=media&token=8a06f30a-843e-471d-83fe-646db64c24f1",
+      "locality": "Churchgate",
+      "name": "Baba ka Dhaba",
+      "shopid": "8"
+    },
+    {
+      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k133.png?alt=media&token=e819f525-3953-4254-b912-f3d3bc80f54c",
+      "locality": "Churchgate",
+      "name": "Jaihind Resturant",
+      "shopid": "9"
+    }
+  ]
 }
