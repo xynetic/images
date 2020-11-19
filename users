@@ -25,12 +25,6 @@
       "shopid": "3"
     },
     {
-      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/shop1.jpg?alt=media&token=1073f527-1295-468f-a7c5-900e388bf6b7",
-      "locality": "Churchgate",
-      "name": "Goodluck Restaurant",
-      "shopid": "4"
-    },
-    {
       "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k.jpg?alt=media&token=8a06f30a-843e-471d-83fe-646db64c24f1",
       "locality": "Churchgate",
       "name": "Mini Punjab",
@@ -48,12 +42,7 @@
       "name": "Rehmat Restaurant",
       "shopid": "7"
     },
-    {
-      "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k2.jpg?alt=media&token=8a06f30a-843e-471d-83fe-646db64c24f1",
-      "locality": "Churchgate",
-      "name": "Baba ka Dhaba",
-      "shopid": "8"
-    },
+    
     {
       "image": "https://firebasestorage.googleapis.com/v0/b/foodzo-app.appspot.com/o/k133.png?alt=media&token=e819f525-3953-4254-b912-f3d3bc80f54c",
       "locality": "Churchgate",
